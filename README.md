@@ -26,7 +26,7 @@ To design and manage a MySQL database for storing and analyzing information rela
 
 Create the database ipl.
 
-######Create two tables:
+###### Create two tables:
 
 - Teams table containing team number, name, owner, sponsor, coach, founded year, captain, location, and trophies won.
 
@@ -42,7 +42,7 @@ Create the database ipl.
 
 - Update and modify data, e.g., changing sponsor names or locations.
 
-######Perform various queries to extract insights:
+###### Perform various queries to extract insights:
 
 - List all teams and players.
 
